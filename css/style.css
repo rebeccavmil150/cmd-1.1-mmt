@@ -1,0 +1,9 @@
+body{
+    background-color: #f0f0f0;
+    font-family: calibri;
+    margin: 1rem;
+}
+.poster{
+    width: 10rem;
+    height: auto;
+}
