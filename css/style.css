@@ -1,9 +1,18 @@
 body{
     background-color: #f0f0f0;
     font-family: calibri;
-    margin: 1rem;
+    margin: 0px;    
+}   
+header{
+    background-image: url("../img/background-stars.jpg");
+    color: #fff; 
+    text-align: center;
+    padding: 4rem;
 }
-.poster{
-    width: 10rem;
-    height: auto;
+main{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    text-align: center;
 }
