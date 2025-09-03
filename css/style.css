@@ -1,3 +1,6 @@
+*{
+    text-align: center; 
+}
 body{
     background-color: #f0f0f0;
     font-family: calibri;
@@ -6,7 +9,6 @@ body{
 header{
     background-image: url("../img/background-stars.jpg");
     color: #fff; 
-    text-align: center;
     padding: 4rem;
 }
 main{
@@ -14,5 +16,4 @@ main{
     padding-bottom: 3rem;
     padding-left: 15rem;
     padding-right: 15rem;
-    text-align: center;
 }
